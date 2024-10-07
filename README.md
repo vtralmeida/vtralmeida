@@ -6,8 +6,8 @@ I am a chemist pursuing my Ph.D. at the **Universitat Politècnica de València 
 ## Skills and Interests
 - **Photocatalysis and MOFs**
 - **CO2 Photoreduction and Water Splitting Reactions**
-- **Python programming** in my free time
-- Data analysis, creating plots, and processing scientific data
+- **Python programming**
+- **Data analysis, creating plots, and processing scientific data**
 
 ## Projects and Experience
 Throughout my Ph.D., I have developed research in advanced chemical reactions and photocatalysis. I also study programming, applying **Python** to simplify data analysis and visualization for scientific techniques like spectra and graphs.
