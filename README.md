@@ -1,7 +1,7 @@
 # Hello! I'm Vitor Almeida 👋
 
 ## About Me
-I am a chemist pursuing my Ph.D. at the **Universitat Politècnica de València (UPV)**, focusing on **photocatalysis** using **MOFs (Metal-Organic Frameworks)** as catalysts. My research revolves around **CO2 photoreduction** reactions and **water splitting**.
+I am a chemist pursuing my Ph.D. at the **Universitat Politècnica de València (UPV)**, focusing on **photocatalysis** using **MOFs (Metal-Organic Frameworks)** as catalysts. My research revolves around **CO_2 photoreduction** reactions and **water splitting**.
 
 ## Skills and Interests
 - **Photocatalysis and MOFs**
@@ -17,6 +17,6 @@ I continuously learn to integrate **programming and data analysis** tools into m
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/vitor-fernandes20/)
-- [Email](mailto:vitoralmeida@upv.es)
+- [Email](mailto:vitor.falmeida20@gmail.coms)
 
 
