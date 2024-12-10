@@ -17,6 +17,6 @@ I continuously learn to integrate **programming and data analysis** tools into m
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/vitor-fernandes20/)
-- [Email](mailto:vitor.falmeida20@gmail.coms)
+- [Email](mailto:vitor.falmeida20@gmail.com)
 
 
